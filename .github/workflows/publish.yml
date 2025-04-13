@@ -13,9 +13,6 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
 
-      - name: Write cookies.txt from secret
-        run: echo "${{ secrets.MEDIUM_COOKIES }}" > cookies.txt
-
       - name: Publish blog post
         uses: Prachi-Jamdade/blog-publisher@main # Replace with your actual repo
         with:
@@ -23,4 +20,3 @@ jobs:
           devto_api_key: ${{ secrets.DEVTO_API_KEY }}
           medium_token: ${{ secrets.MEDIUM_INTEGRATION_TOKEN }}
           hashnode_token: ${{ secrets.HASHNODE_API_KEY }}
-          cookies_file: cookies.txt
