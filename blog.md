@@ -33,11 +33,4 @@ Here's how it works:
 - 🧼 Keeps your posts consistent
 - 🔁 Makes content distribution effortless
 
----
-
-## 🔚 Wrap Up
-
-This is just the beginning of multi-platform automation.  
-Feel free to fork the repo, customize the action, and make it yours!
-
 Happy blogging! ✍️
