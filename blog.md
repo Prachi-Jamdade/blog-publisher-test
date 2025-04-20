@@ -14,7 +14,7 @@ Thanks to GitHub Actions, you can now automate that workflow in just a few steps
 
 ---
 
-## ⚙️ The Automation Workflow
+## The Automation Workflow
 
 Here's how it works:
 
