@@ -1,4 +1,4 @@
-# How to Automate Blog Publishing to Multiple Platforms 🚀
+# How to Automate Blog Publishing to Multiple Platforms
 
 Have you ever wanted to publish your blog post on **Dev.to**, **Medium**, and **Hashnode** — all at once?
 
